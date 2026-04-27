@@ -1,7 +1,7 @@
 # 🎮 Game
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](.)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](./TODO.md)
 > 🕹️ Коллекция игровых проектов, прототипов и инструментов на разных языках и движках.  
 > От 2D-платформеров и roguelike до физических симуляций, серверных архитектур и утилит для геймдева.
 
